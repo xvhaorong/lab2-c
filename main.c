@@ -1,3 +1,10 @@
+// Author: Haorong Xu hxx5086@psu.edu 
+// Collaborator: 
+// Collaborator: 
+// Collaborator: 
+// Section: 12
+// Breakout: 
+
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
